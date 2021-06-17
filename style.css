@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Stint+Ultra+Condensed&display=swap');
+
+body{
+    font-family: 'Stint Ultra Condensed', cursive;
+    background: palegoldenrod;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    color: brown;
+    text-decoration: underline;
+}
+
+button{
+    background: crimson;
+    color: white;
+    font-size: 120%;
+}
